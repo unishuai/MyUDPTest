@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: img
+---
+
 # MyUDPTest
  qt udp demo thread
 
@@ -18,8 +22,9 @@
 
 like this
 
-![image-20240613100301993](C:\Users\帅宇昕\AppData\Roaming\Typora\typora-user-images\image-20240613100301993.png)
+![image-20240613100301993](.\img\image-20240613100301993.png)
 
 # result
 
-![image-20240613100357269](C:\Users\帅宇昕\AppData\Roaming\Typora\typora-user-images\image-20240613100357269.png)
+![image-20240613100357269](.\img\image-20240613100357269.png)
+
