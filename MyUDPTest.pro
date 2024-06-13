@@ -28,12 +28,14 @@ SOURCES += \
         main.cpp \
         mainwindow.cpp \
     netComm/UdpTool.cpp \
-    entity/simsysteminfo.cpp
+    entity/simsysteminfo.cpp \
+    netComm/UdpTool.cpp
 
 HEADERS += \
         mainwindow.h \
     netComm/UdpTool.h \
-    entity/simsysteminfo.h
+    entity/simsysteminfo.h \
+    netComm/UdpTool.h
 
 FORMS += \
         mainwindow.ui
