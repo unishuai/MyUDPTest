@@ -1,5 +1,6 @@
 ---
 typora-copy-images-to: img
+typora-root-url: img
 ---
 
 # MyUDPTest
@@ -22,9 +23,9 @@ typora-copy-images-to: img
 
 like this
 
-![image-20240613100301993](.\img\image-20240613100301993.png)
+![image-20240613100301993](img/image-20240613100301993.png)
 
 # result
 
-![image-20240613100357269](.\img\image-20240613100357269.png)
+![image-20240613100357269](img/image-20240613100357269.png)
 
